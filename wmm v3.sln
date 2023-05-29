@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmm v3", "webMAN Manager\wmm v3.csproj", "{2FD6A596-90DD-4600-AB54-D4099CEBDC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedControls", "..\ExtendedControls\ExtendedControls\ExtendedControls.csproj", "{CC6FF824-36D4-4765-9804-67DB0F87B038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD6A596-90DD-4600-AB54-D4099CEBDC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD6A596-90DD-4600-AB54-D4099CEBDC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD6A596-90DD-4600-AB54-D4099CEBDC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD6A596-90DD-4600-AB54-D4099CEBDC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6FF824-36D4-4765-9804-67DB0F87B038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6FF824-36D4-4765-9804-67DB0F87B038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6FF824-36D4-4765-9804-67DB0F87B038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6FF824-36D4-4765-9804-67DB0F87B038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED2F86F-80B3-4B4E-B844-A778106BAD16}
+	EndGlobalSection
+EndGlobal
